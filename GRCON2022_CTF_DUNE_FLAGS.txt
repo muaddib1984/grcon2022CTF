@@ -1,6 +1,3 @@
-# Solutions for the Dune series of challenges for the GNURadio Conference Capture the Flag at GRCON2022. The CTF and all Challenges are available to anyone play at: https://ctf-2022.gnuradio.org/
-
-
 CHALLENGE "TAKE BACK ARRAKIS"
 
 Challenge 1:
@@ -77,4 +74,3 @@ flag{holder watchmen stilgar}
 Challenge 5: "I Can Kill with a Word..."
 This is an RDS encoded stream with gr-paint banners (House Atreides) on either side. The banners are there to guide competitors to this signal from a hint in the challenge description (reference to the banner of house atreides). 
 flag{heart machine blue}
-
